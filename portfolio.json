@@ -21,6 +21,10 @@
   ],
   "Skills": [
     {
+      "Text": "C#/.Net",
+      "Procent": "70"
+    },
+    {
       "Text": "HTML",
       "Procent": "60"
     },
